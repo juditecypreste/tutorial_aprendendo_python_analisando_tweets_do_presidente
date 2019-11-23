@@ -1,6 +1,7 @@
 # Aprenda Python analisando os tuítes do nosso presidente
 
 Workshop de iniciação em Python usado na edição 2019 do CODA - Conferência Brasileira de Jornalismo de Dados.
+Ele faz parte de um conjunto de notebooks para iniciação de Python, feito por [@fmasanori](https://github.com/fmasanori/CursoPyLadiesSP). 
 
 Nesse workshop, participantes que nunca tiveram contato com programação vão ter uma introdução prática à linguagem Python, aprendendo estruturas básicas de programação. Em um exercício real, vamos raspar tuítes do atual presidente da República e analisá-los.
 
@@ -26,10 +27,3 @@ Se for a primeira vez que você se depara com um código em Python, não se dese
 5. No prompt de comando (Windows) ou no terminal (Linux e Mac) digite `jupyter notebook`. Isso fará com que o Jupyter Notebook abra em seu computador.
 
 6. Por fim, navegue até a pasta que você acabou de baixar e abra o arquivo *Analisando Tuites do Bolsonaro.ipynb*. Agora siga as instruções do notebook e comece já a sua análise!✨
-
-
-
-
-
-
-
