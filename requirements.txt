@@ -1,0 +1,3 @@
+requests
+twitter-scraper
+markovify
