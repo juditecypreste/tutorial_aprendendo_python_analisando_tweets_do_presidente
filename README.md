@@ -1,4 +1,4 @@
-# Aprenda Python analisando os tuítes do nosso presidente
+# Aprenda Python analisando os tuítes do nosso presidente :baby_chick:
 
 Workshop de iniciação em Python usado na edição 2019 do CODA - Conferência Brasileira de Jornalismo de Dados.
 Ele faz parte de um conjunto de notebooks para iniciação de Python, feito por [@fmasanori](https://github.com/fmasanori/CursoPyLadiesSP). 
